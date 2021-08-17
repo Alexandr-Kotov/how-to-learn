@@ -18,15 +18,15 @@
   position: relative;
 }
 
-.block{
+.logo{
   width: 183px;
   height: 32px;
-  top: 30px;
-  left: 64px;
 }
 
-.block_key_value{
+.logo_place_header{
   position: absolute;
+  top: 30px;
+  left: 64px;
 }
 
 .hedar__title{
