@@ -34,10 +34,9 @@
   width: 730px;
   font-size: 102px;
   line-height: 96px;
-  left: 64px;
   font-weight: bold;
-  position: relative;
   margin: 0;
+  padding-left: 64px;
   z-index: 3;
 }
 
@@ -174,11 +173,6 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-}
-
-.table_span-accent{
-  display: flex;
-  margin-top: 20px;
 }
 
 /*feynman*/
@@ -326,8 +320,6 @@
 .logo_place_footer{
   width: 183px;
   height: 35px;
-  left: 0;
-  top: 0;
 }
 
 .footer__author{
@@ -336,7 +328,6 @@
   font-weight: normal;
   color: #ffff;
   margin: 18px 0;
-  
 }
 
 .footer__social-icon{
